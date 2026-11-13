@@ -28,7 +28,6 @@ Nella pagina, sotto «Assets», scegli il file adatto al tuo computer:
 1. Apri il file `.dmg` e trascina **Filtro Privacy** nella cartella **Applicazioni**.
 2. La prima volta il Mac la blocca: premi **«Fine»**, poi apri **Impostazioni di Sistema → Privacy e sicurezza**,
    scorri in basso e premi **«Apri comunque»** accanto a Filtro Privacy. Conferma con password o impronta.
-3. Al primo documento il Mac chiede di usare il Portachiavi: premi **«Consenti sempre»**.
 
 ## Aggiornamenti
 
