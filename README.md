@@ -5,27 +5,28 @@ e li rimette quando il lavoro è finito. Tutto avviene sul tuo computer: nessun 
 
 ## ⬇️ Scarica l'ultima versione
 
-**[Vai alla pagina dei download →](../../releases/latest)**
-
-Nella pagina, sotto «Assets», scegli il file adatto al tuo computer:
-
-| Hai… | Scarica |
+| Il tuo computer | Clicca qui |
 |---|---|
-| **Windows** (10 o 11) | `Filtro-Privacy-Setup-….exe` |
-| **Mac** con chip Apple (M1, M2, M3, M4…) | `Filtro-Privacy-…-arm64.dmg` |
-| Claude Desktop (facoltativo, Windows e Mac) | `filtro-privacy.mcpb` |
-| Chrome o Edge (facoltativo) | `filtro-privacy-estensione.zip` |
+| **Windows** 10 o 11 | **[⬇️ Scarica Filtro Privacy per WINDOWS](https://github.com/angelolod21/filtro-privacy-download/releases/latest/download/Installa-Filtro-Privacy-WINDOWS.exe)** |
+| **Mac** con chip Apple (M1, M2, M3, M4…) | **[⬇️ Scarica Filtro Privacy per MAC](https://github.com/angelolod21/filtro-privacy-download/releases/latest/download/Installa-Filtro-Privacy-MAC.dmg)** |
+
+Ne basta **uno solo**: quello del tuo computer. Non serve nessun account GitHub.
+
+Facoltativi, solo se ti servono:
+[Plugin per Claude Desktop](https://github.com/angelolod21/filtro-privacy-download/releases/latest/download/Facoltativo-Plugin-Claude-Desktop.mcpb) ·
+[Estensione per Chrome ed Edge](https://github.com/angelolod21/filtro-privacy-download/releases/latest/download/Facoltativo-Estensione-Chrome-Edge.zip) ·
+[tutte le versioni](../../releases)
 
 ## Installazione su Windows
 
-1. Apri il file `Filtro-Privacy-Setup-….exe`.
+1. Apri il file scaricato `Installa-Filtro-Privacy-WINDOWS.exe`.
 2. Se compare **«Windows ha protetto il PC»**: premi **«Ulteriori informazioni»** e poi **«Esegui comunque»**.
    Succede perché l'app è nuova e non ancora firmata con un certificato: non è un virus.
 3. Segui l'installazione. Filtro Privacy si trova poi nel menu Start.
 
 ## Installazione su Mac
 
-1. Apri il file `.dmg` e trascina **Filtro Privacy** nella cartella **Applicazioni**.
+1. Apri il file scaricato `Installa-Filtro-Privacy-MAC.dmg` e trascina **Filtro Privacy** nella cartella **Applicazioni**.
 2. La prima volta il Mac la blocca: premi **«Fine»**, poi apri **Impostazioni di Sistema → Privacy e sicurezza**,
    scorri in basso e premi **«Apri comunque»** accanto a Filtro Privacy. Conferma con password o impronta.
 
